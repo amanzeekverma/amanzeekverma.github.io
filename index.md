@@ -1,9 +1,8 @@
 ## Welcome!
 ### Aman "ZeeK" Verma welcomes you to his landing page.
-
 This is a single page to accumulate everything I have online.
 
-You can use the [editor on GitHub](https://github.com/amanzeekverma/amanzeekverma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Check [THIS LINK](http://amanzeekver,a.github.io/index_bkp.md) to see if you an navigate to other md.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
