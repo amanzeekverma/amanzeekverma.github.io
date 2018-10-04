@@ -2,7 +2,7 @@
 ### Aman "ZeeK" Verma welcomes you to his landing page.
 This is a single page to accumulate everything I have online.
 
-Check [THIS LINK](http://amanzeekver,a.github.io/index_bkp.md) to see if you an navigate to other md.
+Check [THIS LINK](http://amanzeekverma.github.io/index_bkp.md) to see if you an navigate to other md.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
