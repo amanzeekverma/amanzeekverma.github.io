@@ -1,8 +1,9 @@
 ## Welcome!
-### Aman "ZeeK" Verma welcomes you to his landing page.
-This is a single page to accumulate everything I have online.
+### Contacts:
+EMAIL: [avd.zeek@gmail.com](mailto:avd.zeek@gmail.com)
+[LINKED IN](https://www.linkedin.com/in/amanzeekverma/)  [TWITTER](https://twitter.com/aman_zeek_verma)    
 
-Check [THIS LINK](http://amanzeekverma.github.io/index_bkp.md) to see if you an navigate to other md.
+Check [THIS LINK](http://amanzeekverma.github.io/index_bkp.html) to see if you an navigate to other md.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
