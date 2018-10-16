@@ -3,8 +3,12 @@
 <div style="width: 50%; height: 800; float:left">
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
   <p>LINKS:
-  <a href="mailto:avd.zeek@gmail.com">EMAIL</a> 
-  <a href="https://twitter.com/aman_zeek_verma">TWITTER</a>
+  <hr>
+  <ul>
+  <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
+  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
+  </ul>
+  <hr>
   </p>
   
 </div>
@@ -30,7 +34,7 @@
         <p style="margin: 0;"><strong>E:</strong> avd.zeek@gmail.com</p>
     </div>
     <img src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" style="margin: 10px 0;">
-    <a href="https://www.freelancer.com/affiliates/email/16436893/" style="display: block;text-decoration: underline;margin: 10px 0 10px 10px;vertical-align: middle;height: 21px;float: left">Hire me on Freelancer.com</a>
+    <a href="https://www.freelancer.com/affiliates/email/16436893/" style="display: block;text-decoration: underline;margin: 10px 0 10px 10px;vertical-align: middle;height: 21px;">Hire me on Freelancer.com</a>
     <img src="//t.flnwdgt.com/1px.gif?username=avDZeeK&amp;en=externalHireme&amp;method=img&amp;label=hiremeEmailImpression&amp;ip=96.252.59.246&amp;type=emailSignature">
 </div>
 
