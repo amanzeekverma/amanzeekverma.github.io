@@ -11,12 +11,6 @@
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
 </iframe>
-<a class="twitter-timeline"
-  href="https://twitter.com/TwitterDev"
-  data-width="300"
-  data-height="300">
-Tweets by @aman_zeek_verma
-</a>
 
 Check [THIS LINK](http://amanzeekverma.github.io/index_bkp.html) to see if you an navigate to other md.
 
