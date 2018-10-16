@@ -14,7 +14,8 @@
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
 </iframe>
-</div>`
+</div>
+<hr>
 ### WORK WITH ME:
 <div>
     <a href="https://www.freelancer.com/affiliates/email/16436893/"><img src="https://cdn6.f-cdn.com/ppic/82591344/logo/16436893/profile_logo_16436893.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
