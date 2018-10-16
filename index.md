@@ -1,7 +1,7 @@
 ## Welcome!
 ### Contacts:
  - EMAIL: [avd.zeek@gmail.com](mailto:avd.zeek@gmail.com)
-- [LINKED IN](https://www.linkedin.com/in/amanzeekverma/)
+- ![LINKED IN](https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2i3FAlZJSjuL07kCt7a%2BKw%3D%3D)
 - [TWITTER](https://twitter.com/aman_zeek_verma)
 - [GIT-HUB](https://github.com/amanzeekverma)
 
