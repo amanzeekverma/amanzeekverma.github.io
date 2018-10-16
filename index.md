@@ -2,10 +2,10 @@
 ### CONTACT ME:
 <div style="width: 50%; float:left">
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
-  - [avd.zeek@gmail.com](mailto:avd.zeek@gmail.com)
-  - [My Twitter Account](https://twitter.com/aman_zeek_verma)
-  - [GIT-HUB](https://github.com/amanzeekverma)
-  
+  <P>
+  <a href="mailto:avd.zeek@gmail.com">EMAIL</a>
+  <a href="https://twitter.com/aman_zeek_verma">MY TWITTER ACCOUNT</a>
+  </p>
 </div>
 <div style="width: 50%; float:right">
    <iframe
