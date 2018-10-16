@@ -1,9 +1,10 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ## Welcome!
 ### Contacts:
  - EMAIL: [avd.zeek@gmail.com](mailto:avd.zeek@gmail.com)
-- ![LINKED IN](https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2i3FAlZJSjuL07kCt7a%2BKw%3D%3D)
 - [TWITTER](https://twitter.com/aman_zeek_verma)
 - [GIT-HUB](https://github.com/amanzeekverma)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
 
 <iframe
     allow="microphone;"
