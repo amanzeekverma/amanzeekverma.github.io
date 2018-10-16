@@ -1,15 +1,25 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
-### Contacts:
-- [avd.zeek@gmail.com](mailto:avd.zeek@gmail.com)
-- [TWITTER](https://twitter.com/aman_zeek_verma)
-## TRY TO CONTACT ME:
-<iframe
+<div style="width: 40%; float:left">
+  #left content here
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
+</div>
+
+<div style="width: 60%; float:right">
+   #right content in there
+   ### BETA ME-BOT:
+   <iframe
     allow="microphone;"
     width="350"
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
 </iframe>
+</div>
+
+### Contacts:
+- [avd.zeek@gmail.com](mailto:avd.zeek@gmail.com)
+- [TWITTER](https://twitter.com/aman_zeek_verma)
+
+
 - [GIT-HUB](https://github.com/amanzeekverma)
 
 Check [THIS LINK](http://amanzeekverma.github.io/index_bkp.html) to see if you an navigate to other md.
