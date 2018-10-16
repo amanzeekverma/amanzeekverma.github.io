@@ -1,11 +1,19 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ### Hi...
+
 <div style="width: 50%; height: 800; float:left">
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
   <p>LINKS:
   <hr>
   <ul>
   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
+  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
+   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
+  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
+   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
+  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
+   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
   <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
   </ul>
   <hr>
