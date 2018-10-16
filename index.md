@@ -1,11 +1,9 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div style="width: 40%; float:left">
-  #left content here
   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
 </div>
 
 <div style="width: 60%; float:right">
-   #right content in there
    ### BETA ME-BOT:
    <iframe
     allow="microphone;"
