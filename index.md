@@ -30,35 +30,12 @@
     <img src="//t.flnwdgt.com/1px.gif?username=avDZeeK&amp;en=externalHireme&amp;method=img&amp;label=hiremeEmailImpression&amp;ip=96.252.59.246&amp;type=emailSignature" alt="" style="float:left;">
 </div>
 
-
-
-
-
-
-Check [THIS LINK](http://amanzeekverma.github.io/index_bkp.html) to see if you an navigate to other md.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+public class Java {
+public static void main(String[] a){
+System.out.println("Hi");
+}
+}
 ```
 
 
