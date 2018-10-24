@@ -1,15 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-### TALK TO MY BOT (beta)
-
-   <iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
-</iframe>
-
-
-
 ### WORK WITH ME:
 
 <div>
@@ -24,12 +12,19 @@
     <img src="//t.flnwdgt.com/1px.gif?username=avDZeeK&amp;en=externalHireme&amp;method=img&amp;label=hiremeEmailImpression&amp;ip=96.252.59.246&amp;type=emailSignature" alt="" style="float:left;">
 </div>
 
-<p>
-   code code
-   code  code
-   code    code
-   code      code
-</p>
+
+
+### TALK TO MY BOT (beta)
+
+   <iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
+</iframe>
+
+
+
 
 ```
 public class Java {
