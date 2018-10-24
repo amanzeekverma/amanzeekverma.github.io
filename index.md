@@ -1,36 +1,5 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-### Hi...
-
-<div style="width: 50%; float:left">
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="amanzeekverma"><a class="LI-simple-link" href='https://www.linkedin.com/in/amanzeekverma?trk=profile-badge'>Aman Verma</a></div>
-  <p>LINKS:
-  <hr>
-  <ul>
-  <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-  li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-   <li><a href="mailto:avd.zeek@gmail.com">EMAIL</a> </li>
-  <li><a href="https://twitter.com/aman_zeek_verma">TWITTER</a></li>
-  </ul>
-  <hr>
-  </p>
-  
-</div>
-<div style="width: 50%; float:right">
-
    <iframe
     allow="microphone;"
     width="350"
@@ -38,7 +7,6 @@
     src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
 </iframe>
 
-</div>
 
 
 ### WORK WITH ME:
