@@ -1,3 +1,4 @@
+# GREETING !
 ### WORK WITH ME:
 
 <div>
@@ -14,8 +15,8 @@
 
 <br>
 <br>
-# CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
-# TWITTER HANDLE : [TWITTER-URL](https://twitter.com/aman_zeek_verma)
+### CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
+### TWITTER HANDLE : [TWITTER-URL](https://twitter.com/aman_zeek_verma)
 <hr>
 ### RESUME BOT (beta)
 <br>
