@@ -14,9 +14,10 @@
 
 <br>
 <br>
-
-### PROFESSIONAL NETWORK: [LINKED-IN](https://www.linkedin.com/in/amanzeekverma/)
-<br>
+# CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
+# TWITTER HANDLE : [TWITTER-URL](https://twitter.com/aman_zeek_verma)
+<hr>
+### RESUME BOT (beta)
 <br>
    <iframe
     allow="microphone;"
@@ -30,9 +31,9 @@
 
 ```
 public class Java {
-public static void main(String[] a){
-System.out.println("This is obviously in progress...");
-}
+   public static void main(String[] a){
+      System.out.println("This is obviously in progress...");
+   }
 }
 ```
 
