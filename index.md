@@ -1,4 +1,21 @@
 # GREETING !
+### About Me:
+Software Engineer with more than 10 years of professional experience. Keen interest in technology and being hands on.
+
+Currently, I am on a break from work due to personal reasons but I will be back hunting for new/exciting opportunity in 2019 (or before)
+
+I have been IT Consultant throughout my carrer and have been fortunate to work with multiple clients in multiple projects. My primary role hasbeen a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. Been a goto-person for anything technical (and hopefully not functional). 
+
+<hr>
+### RESUME BOT (beta)
+<br>
+   <iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
+</iframe>
+<hr>
 ### WORK WITH ME:
 
 <div>
@@ -17,18 +34,6 @@
 <br>
 ### CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
 ### TWITTER HANDLE : [TWITTER-URL](https://twitter.com/aman_zeek_verma)
-<hr>
-### RESUME BOT (beta)
-<br>
-   <iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
-</iframe>
-
-
-
 
 ```
 public class Java {
