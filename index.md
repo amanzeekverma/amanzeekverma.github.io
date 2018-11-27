@@ -1,13 +1,13 @@
 # GREETING !
 ### About Me:
-Software Engineer with more than 10 years of professional experience. Keen interest in technology and being hands on.
+Hands on Software Engineer with more than 10 years of professional experience. Keen interest in technology and system performance.
 
-Currently, I am on a break from work due to personal reasons but I will be back hunting for new/exciting opportunity in 2019 (or before)
+NOTE: Currently, I am on a break from work due to personal reasons but I will be back in market for new/exciting opportunity in 2019 (or before)
 
-I have been IT Consultant throughout my carrer and have been fortunate to work with multiple clients in multiple projects. My primary role hasbeen a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. Been a goto-person for anything technical (and hopefully not functional). 
+I have been IT Consultant throughout my carrer and have been fortunate to work with multiple clients in multiple projects. My primary role has been a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. Been a technical goto person.
 
 <hr>
-### RESUME BOT (beta)
+### MEET-ME BOT (beta)
 <br>
    <iframe
     allow="microphone;"
@@ -16,8 +16,18 @@ I have been IT Consultant throughout my carrer and have been fortunate to work w
     src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
 </iframe>
 <hr>
+### CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
+<br><br>
+### PROJECTS:
+# ZEEK MONITOR:
+Easy to use, custom monitoring tool to plot any CSV value on a web page.
+[GIT HUB LINK](https://github.com/amanzeekverma/zeekMonitor)
+<br><br>
+# HANGMAN (FACEBOOK MESSENGER CHAT BOT):
+Currenly defunct, but all the code is avaialble at:
+[GIT HUB LINK](https://github.com/amanzeekverma/zeekHangman)
+<br><br>
 ### WORK WITH ME:
-
 <div>
     <a href="https://www.freelancer.com/affiliates/email/16436893/"><img src="https://cdn6.f-cdn.com/ppic/82591344/logo/16436893/profile_logo_16436893.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
     <div style="min-height:40px;">
@@ -32,7 +42,7 @@ I have been IT Consultant throughout my carrer and have been fortunate to work w
 
 <br>
 <br>
-### CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
+
 ### TWITTER HANDLE : [TWITTER-URL](https://twitter.com/aman_zeek_verma)
 
 ```
