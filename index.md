@@ -16,22 +16,17 @@ I have been IT Consultant throughout my carrer and have been fortunate to work w
 </iframe>
 ### CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
 <hr>
-<br><br>
 # PROJECTS:
 ### ZEEK MONITOR:
 Easy to use, custom monitoring tool to plot any CSV value on a web page.
 [GIT HUB LINK](https://github.com/amanzeekverma/zeekMonitor)
-<br>
 ### HANGMAN (FACEBOOK MESSENGER CHAT BOT):
 Currenly defunct, but all the code is avaialble at:
 [GIT HUB LINK](https://github.com/amanzeekverma/zeekHangman)
-<br>
-### IOT: LED ON/OFF VIA GOOGLE-HOME
+### IOT: LED ON/OFF VIA GOOGLE-HOME:
 <iframe width="350" height="430" src="https://www.instagram.com/p/BPbf-u0AG3s/embed/" frameborder="1"></iframe>
-<br>
-### GOOGLE ACTIONS: DIAGLOGFLOW: 'TALK' TO FB-MESSENGER
+### GOOGLE ACTIONS: DIAGLOGFLOW: 'TALK' TO FB-MESSENGER:
 <iframe width="350" height="430" src="https://www.instagram.com/p/BOiQbopgZp7/embed/" frameborder="1"></iframe>
-<br>
 ### WORK WITH ME:
 <div>
     <a href="https://www.freelancer.com/affiliates/email/16436893/"><img src="https://cdn6.f-cdn.com/ppic/82591344/logo/16436893/profile_logo_16436893.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
