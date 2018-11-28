@@ -1,4 +1,4 @@
-# GREETING !
+# GREETINGS !
 ### About Me:
 Hands on Software Engineer with more than 10 years of professional experience. Keen interest in technology and system performance.
 
@@ -8,25 +8,30 @@ I have been IT Consultant throughout my carrer and have been fortunate to work w
 
 <hr>
 ### MEET-ME BOT (beta)
-<br>
    <iframe
     allow="microphone;"
     width="350"
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/6f1d5530-c572-4c8a-a0ed-2338b3723ebe">
 </iframe>
-<hr>
 ### CONNECT WITH ME: [LINKED -URL](https://www.linkedin.com/in/amanzeekverma/)
+<hr>
 <br><br>
-### PROJECTS:
-# ZEEK MONITOR:
+# PROJECTS:
+### ZEEK MONITOR:
 Easy to use, custom monitoring tool to plot any CSV value on a web page.
 [GIT HUB LINK](https://github.com/amanzeekverma/zeekMonitor)
-<br><br>
-# HANGMAN (FACEBOOK MESSENGER CHAT BOT):
+<br>
+### HANGMAN (FACEBOOK MESSENGER CHAT BOT):
 Currenly defunct, but all the code is avaialble at:
 [GIT HUB LINK](https://github.com/amanzeekverma/zeekHangman)
-<br><br>
+<br>
+### IOT: LED ON/OFF VIA GOOGLE-HOME
+<iframe width="350" height="430" src="https://www.instagram.com/p/BPbf-u0AG3s/embed/" frameborder="1"></iframe>
+<br>
+### GOOGLE ACTIONS: DIAGLOGFLOW: 'TALK' TO FB-MESSENGER
+<iframe width="350" height="430" src="https://www.instagram.com/p/BOiQbopgZp7/embed/" frameborder="1"></iframe>
+<br>
 ### WORK WITH ME:
 <div>
     <a href="https://www.freelancer.com/affiliates/email/16436893/"><img src="https://cdn6.f-cdn.com/ppic/82591344/logo/16436893/profile_logo_16436893.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a>
