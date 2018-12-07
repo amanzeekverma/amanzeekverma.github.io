@@ -4,7 +4,7 @@ Hands on Software Engineer with more than 10 years of professional experience. K
 
 NOTE: Currently, I am on a break from work due to personal reasons but I will be back in market for new/exciting opportunity in 2019 (or before)
 
-I have been IT Consultant throughout my carrer and have been fortunate to work with multiple clients in multiple projects. My primary role has been a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. Been a technical goto person.
+I have been IT Consultant throughout my career and have been fortunate to work with multiple clients in multiple projects. My primary role has been a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. Been a technical goto person.
 
 <hr>
 ### MEET-ME BOT (beta)
