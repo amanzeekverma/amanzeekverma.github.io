@@ -2,9 +2,9 @@
 ### About Me:
 Hands on Software Engineer with more than 10 years of professional experience. Keen interest in technology and system performance.
 
-NOTE: I was on a break from work due to personal reasons and I am now back in market looking for a meaningful opportunity.
+NOTE: I am no longer looking for job opportunity. I am thankful to everyone who gave me opportunity to interview.
 
-I have been IT Consultant throughout my career and have been fortunate to work with multiple clients in multiple projects. My primary role has been a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. Been a technical goto person.
+I have been IT Guy throughout my career and have been fortunate to work with multiple clients/customer in multiple projects. My primary role has been a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. !-V-!
 
 <hr>
 ### MEET-ME BOT (beta)
