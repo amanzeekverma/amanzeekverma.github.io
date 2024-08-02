@@ -1,8 +1,8 @@
 # GREETINGS !
 ### About Me:
-Hands on Software Engineer with more than 10 years of professional experience. Keen interest in technology and system performance.
+Hands on Software Engineer with more than 15+ years of professional experience. Keen interest in technology, system performance and cybersecurity.
 
-Currently working as an Engineer for VMWare - Security Business Unit - Carbon Black <a href="https://www.carbonblack.com/products/edr/">product</a>
+Currently working as an Engineer for VMWare (oops! Broadcom) - Security Business Unit - Carbon Black <a href="https://www.carbonblack.com/products/edr/">product</a>
 
 I have been IT Guy throughout my career and have been fortunate to work with multiple clients/customer in multiple projects. My primary role has been a performance engineer but I have also been a developer, test engineer, build engineer, tool-smith, doc writer, excel maintainer, plough the snow guy as well. Have worked in various tech platforms and have adapted to various methodologies. !-V-!
 
